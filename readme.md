@@ -5,7 +5,7 @@ Información de un estudiante:
 - id
 - nombre
 - apellidos
-- idCurso
+- idCurso (este atributo representa los cursos a los que se va a matricular el estudiante)
 
 Endpoints para estudiantes:
 1. Obtener todos los estudiantes: GET http://localhost:3000/estudiantes/
